@@ -1,0 +1,1 @@
+# objetos-diurno-ago24
