@@ -73,8 +73,7 @@ Después los cambios realizados en el paso 4 al puerto en nuestra app Hello worl
 Esto iniciara el servidor y se podra ver el mensaje `Hello, World!`. Esto se consigue accediendo a: http://localhost:1200 (instrucciones #paso4) desde el navegador
 
 	// hello.controller.ts# 
-## Referencias: en este caso, nuestra app Hello world)
-
+## Referencias: 
 - De Roer, D. D., & De Roer, D. D. (2022, 12 junio). Como crear un proyecto con NestJS. Disco Duro de Roer -. https://www.discoduroderoer.es/como-crear-un-proyecto-con-nestjs/
 
 - Medina, R. (2020, 7 julio). Ejemplo con Nestjs. https://www.linkedin.com/pulse/api-con-nestjs-ronny-medina/
