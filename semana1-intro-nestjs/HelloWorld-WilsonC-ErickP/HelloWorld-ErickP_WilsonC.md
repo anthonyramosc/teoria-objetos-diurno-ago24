@@ -66,7 +66,7 @@ Vamos a cambiar el valor numérico de la línea que contiene: `await app.listen(
 `await app.listen(1200)`
 Esto nos permitirá ejecutar la aplicación bajo el puerto `1200`
 ## Paso 5: Ejecutar la aplicación.
-Con los camen este caso, nuestra app Hello world)bios que se realizo se puede ejecutar la aplicacion en NestJS con el siguiete comando: 
+Después los cambios realizados en el paso 4 al puerto en nuestra app Hello world, ahora estamos listos para ejecutar la aplicacion en NestJS con el siguiete comando: 
 
 `npm run start`
 
