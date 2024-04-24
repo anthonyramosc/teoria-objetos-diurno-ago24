@@ -17,3 +17,6 @@ la modularidad y la facilidad de mantenimiento del código. Esto resulta en un c
 
 Referencias
 	Fowler, M. "Inversion of Control Containers and the Dependency Injection Pattern." martinfowler.com, 2004.  Recuperado de: https://martinfowler.com/articles/injection.html
+
+
+Link video: https://www.youtube.com/watch?v=YxeVo7BuXzE
