@@ -1,0 +1,20 @@
+David Correa
+1.- ¿Cuál es una responsabilidad de los servicios en Nest?
+a) Gestionar la lógica de negocio en una clase aparte.
+b) Realizar operaciones de entrada y salida de datos en la base de datos.
+c) Definir la estructura y diseño de la aplicación.
+Respuesta correcta: a)Porque los servicios en Nest tienen la responsabilidad de encapsular y gestionar la lógica de negocio de la aplicación en clases separadas. Esto promueve la modularidad y la separación de preocupaciones, lo que facilita el mantenimiento y la reutilización del código
+
+
+2.-¿Cómo se realiza la inyección de un servicio en un controlador en Nest?
+a) Importando el servicio y utilizando una función injectService().
+b) Mediante una declaración explícita de dependencias en el constructor.
+c) Importando el servicio y luego llamando a una función setService().
+Respuesta correcta: b) Porque al definir parámetros en el constructor con el tipo de las clases que deseamos inyectar, aseguramos que Nest maneje la creación e inyección de estas dependencias de manera automática.
+
+
+3.- ¿Cuál es uno de los beneficios de utilizar proveedores en Nest para gestionar las dependencias entre los diferentes componentes de la aplicación?
+a) Aumentar el acoplamiento entre módulos.
+b) Promover la creación de código menos legible y mantenible.
+c) Fomentar la creación de código más legible, mantenible y fácil de probar.
+Respuesta correcta: c) Porque al separar las responsabilidades y promover la modularidad a través de la inyección de dependencias, se facilita la creación de código que es más claro, mantenible y más fácil de probar.
